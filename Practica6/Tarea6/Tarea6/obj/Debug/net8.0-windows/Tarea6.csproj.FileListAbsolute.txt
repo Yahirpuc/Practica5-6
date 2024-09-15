@@ -1,0 +1,16 @@
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\TorresDeHanoiApp.Form1.resources
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.csproj.GenerateResource.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.GeneratedMSBuildEditorConfig.editorconfig
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.AssemblyInfoInputs.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.AssemblyInfo.cs
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.csproj.CoreCompileInputs.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\bin\Debug\net8.0-windows\Tarea6.exe
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\bin\Debug\net8.0-windows\Tarea6.deps.json
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\bin\Debug\net8.0-windows\Tarea6.runtimeconfig.json
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\bin\Debug\net8.0-windows\Tarea6.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\bin\Debug\net8.0-windows\Tarea6.pdb
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\refint\Tarea6.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.pdb
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\Tarea6.genruntimeconfig.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica6\Tarea6\Tarea6\obj\Debug\net8.0-windows\ref\Tarea6.dll

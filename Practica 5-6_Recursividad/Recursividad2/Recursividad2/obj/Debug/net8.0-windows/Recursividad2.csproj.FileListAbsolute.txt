@@ -1,0 +1,16 @@
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\bin\Debug\net8.0-windows\Recursividad2.exe
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\bin\Debug\net8.0-windows\Recursividad2.deps.json
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\bin\Debug\net8.0-windows\Recursividad2.runtimeconfig.json
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\bin\Debug\net8.0-windows\Recursividad2.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\bin\Debug\net8.0-windows\Recursividad2.pdb
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.Form1.resources
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.csproj.GenerateResource.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.AssemblyInfoInputs.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.AssemblyInfo.cs
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.csproj.CoreCompileInputs.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\refint\Recursividad2.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.pdb
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\Recursividad2.genruntimeconfig.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 1\Practica 5-6_Recursividad\Recursividad2\Recursividad2\obj\Debug\net8.0-windows\ref\Recursividad2.dll
